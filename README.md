@@ -15,3 +15,9 @@ Before installing Rent Analysis, ensure you have the following:
    ```bash
    git clone https://github.com/goodnessezichioum/LagosRentalAnalysis.git
    
+## Screenshots
+
+Below are some screenshots of Rent Analysis in action:
+
+![Plot showing availability of properties by city](https://github.com/goodnessezichioum/LagosRentalAnalysis/blob/master/data/screenshots/properties_by_city.png?raw=true)
+![Plot showing properties by bedrooms](https://github.com/goodnessezichioum/LagosRentalAnalysis/blob/master/data/screenshots/properties_by_bedroom.png?raw=true)
